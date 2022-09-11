@@ -2,7 +2,7 @@
   "name": "merngoals",
   "version": "1.0.0",
   "description": "MERNGOALS a small test app built with MERN stack",
-  "main": "index.js",
+  "main": "/backend/server.js",
   "scripts": {
     "start": "npm backend/server.js",
     "server": "nodemon backend/server.js",
